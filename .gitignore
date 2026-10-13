@@ -1,0 +1,7 @@
+# never commit the LSEG app key
+lseg-data.config.json
+raw_cache/
+tape.pkl
+site_synthetic/
+__pycache__/
+.venv/
